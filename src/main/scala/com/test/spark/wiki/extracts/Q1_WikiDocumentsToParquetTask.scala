@@ -41,7 +41,6 @@ case class Q1_WikiDocumentsToParquetTask(bucket: String) extends Runnable {
 
 
     val allLeagueStanding = getLeagues
-      // TODO Q1 Transformer cette seq en dataset
         .toDS()
       .flatMap {
       input =>
@@ -53,12 +52,10 @@ case class Q1_WikiDocumentsToParquetTask(bucket: String) extends Runnable {
 
           case(season, (league, url)) => {
             try {
-              // TODO Q2 Implémenter le parsing Jsoup. Il faut retourner une Seq[LeagueStanding]
               val doc: Document = Jsoup.connect(url).get()
               val parseHtml = Jsoup.parse(doc.html())
-              //println(url)
 
-              val table = parseHtml.getElementsByClass("wikitable gauche").select("tbody")  // .select("tbody").text().split(" ").map(_.trim)
+              val table = parseHtml.getElementsByClass("wikitable gauche").select("tbody")
               val rows = table.select("tr")
               for(i <- 1 to rows.size()) {
 
@@ -83,15 +80,13 @@ case class Q1_WikiDocumentsToParquetTask(bucket: String) extends Runnable {
 
              catch {
               case _:Throwable => {
-                // TODO Q3 En supposant que ce job tourne sur un cluster EMR, où seront affichés les logs d'erreurs ?
-                //logger.warn(s"Can't parse season $season from $url")
+                logger.warn(s"Can't parse season $season from $url")
                 Seq.empty
               }
 
             }
         }}.toDF()
     EsSparkSQL.saveToEs(allLeagueStanding, cfg = cfg)
-      // TODO Q4 Comment partitionner les données en 2 avant l'écriture sur le bucket
       allLeagueStanding
         .coalesce(numPartitions=2)
       .write
@@ -105,7 +100,6 @@ case class Q1_WikiDocumentsToParquetTask(bucket: String) extends Runnable {
     mapper.registerModule(DefaultScalaModule)
     val filename = "src/main/ressources/leagues.yaml"
     val inputStream = new FileInputStream(new File(filename))
-    // TODO Q7 Recuperer l'input stream du fichier leagues.yaml
     mapper.readValue(inputStream, classOf[Array[LeagueInput]]).toSeq
 
   }
@@ -118,7 +112,6 @@ object Seloger {
     c.run()
   }
 }
-// TODO Q8 Ajouter les annotations manquantes pour pouvoir mapper le fichier yaml à cette classe
 case class LeagueInput(name: String,
                        url: String)
 
