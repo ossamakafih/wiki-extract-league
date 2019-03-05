@@ -10,7 +10,7 @@ case class ShowLeagueStatsTask(bucket: String) extends Runnable {
   import session.implicits._
 
   override def run(): Unit = {
-    val standings = session.read.parquet("/home/soat/wikiparquet").as[LeagueStanding].cache()
+    val standings = session.read.parquet(bucket).as[LeagueStanding].cache()
 
     standings
       // ...code...
