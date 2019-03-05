@@ -86,7 +86,9 @@ case class Q1_WikiDocumentsToParquetTask(bucket: String) extends Runnable {
 
             }
         }}.toDF()
+
     EsSparkSQL.saveToEs(allLeagueStanding, cfg = cfg)
+    
       allLeagueStanding
         .coalesce(numPartitions=2)
       .write
@@ -106,12 +108,6 @@ case class Q1_WikiDocumentsToParquetTask(bucket: String) extends Runnable {
 
 }
 
-object Seloger {
-  def main(args: Array[String]): Unit = {
-    val c = new Q1_WikiDocumentsToParquetTask("test")
-    c.run()
-  }
-}
 case class LeagueInput(name: String,
                        url: String)
 

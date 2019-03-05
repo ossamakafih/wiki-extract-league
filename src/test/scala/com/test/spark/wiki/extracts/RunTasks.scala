@@ -20,7 +20,7 @@ class RunTasks extends FunSuite with BeforeAndAfterEach {
   test("Run Tasks...") {
     Seq(
       Q1_WikiDocumentsToParquetTask(bucket),
-      Q2_ShowLeagueStatsTask(bucket)
+      ShowLeagueStatsTask(bucket)
     ).foreach(_.run())
   }
 }

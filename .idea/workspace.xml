@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d2cf7a0-a7d7-461a-9702-6a3229082623" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/WikiDocumentsToParquetTask.scala" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/ShowLeagueStatsTask.scala" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/com/test/spark/wiki/extracts/RunTasks.scala" afterPath="$PROJECT_DIR$/src/test/scala/com/test/spark/wiki/extracts/RunTasks.scala" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/LeagueInput$.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/LeagueInput$.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/LeagueInput.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/LeagueInput.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/LeagueStanding$.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/LeagueStanding$.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/LeagueStanding.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/LeagueStanding.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$1$$anonfun$apply$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$2$$anonfun$apply$2.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$2$$anonfun$apply$2.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$2.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$2.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$typecreator13$1.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$typecreator13$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$typecreator5$1.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$typecreator5$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$typecreator9$1.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$typecreator9$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask$$typecreator4$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Seloger$.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Seloger$.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Seloger.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/wiki/extracts/Seloger.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/spark/wiki/extracts/RunTasks$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/test-classes/com/test/spark/wiki/extracts/RunTasks$$anonfun$1.class" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q1_WikiDocumentsToParquetTask.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala">
+      <file leaf-file-name="WikiDocumentsToParquetTask.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/WikiDocumentsToParquetTask.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="39" column="42" lean-forward="false" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+            <state relative-caret-position="239">
+              <caret line="90" column="4" lean-forward="false" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
               <folding>
                 <element signature="e#38#88#0" expanded="true" />
               </folding>
@@ -37,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RunTasks.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RunTasks.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/com/test/spark/wiki/extracts/RunTasks.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
@@ -49,8 +70,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q2_ShowLeagueStatsTask.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala">
+      <file leaf-file-name="ShowLeagueStatsTask.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/ShowLeagueStatsTask.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
               <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
@@ -98,10 +119,11 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/WordCount.java" />
-        <option value="$PROJECT_DIR$/src/test/scala/com/test/spark/wiki/extracts/RunTasks.scala" />
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/test/spark/wiki/extracts/RunTasks.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/WikiDocumentsToParquetTask.scala" />
       </list>
     </option>
   </component>
@@ -160,6 +182,21 @@
               <item name="spark-wiki" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark-wiki-extracts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark-wiki" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark-wiki-extracts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark-wiki" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="extracts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark-wiki-extracts" type="b2602c69:ProjectViewProjectNode" />
@@ -434,7 +471,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -486,7 +523,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/ShowLeagueStatsTask.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -504,7 +541,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/WikiDocumentsToParquetTask.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -546,17 +583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="39" column="42" lean-forward="false" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
-          <folding>
-            <element signature="e#38#88#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/ShowLeagueStatsTask.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
@@ -572,6 +599,16 @@
           <caret line="16" column="52" lean-forward="true" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
           <folding>
             <element signature="e#38#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/wiki/extracts/WikiDocumentsToParquetTask.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="90" column="4" lean-forward="false" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+          <folding>
+            <element signature="e#38#88#0" expanded="true" />
           </folding>
         </state>
       </provider>

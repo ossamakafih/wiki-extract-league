@@ -4,7 +4,7 @@ import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.expressions.UserDefinedFunction
 import org.apache.spark.sql.functions._
 
-case class Q2_ShowLeagueStatsTask(bucket: String) extends Runnable {
+case class ShowLeagueStatsTask(bucket: String) extends Runnable {
   private val session: SparkSession = SparkSession.builder().getOrCreate()
 
   import session.implicits._
