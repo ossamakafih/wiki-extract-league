@@ -88,7 +88,7 @@ case class Q1_WikiDocumentsToParquetTask(bucket: String) extends Runnable {
         }}.toDF()
 
     EsSparkSQL.saveToEs(allLeagueStanding, cfg = cfg)
-    
+
       allLeagueStanding
         .coalesce(numPartitions=2)
       .write
