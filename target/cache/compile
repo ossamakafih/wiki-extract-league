@@ -1,0 +1,547 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/soat/Bureau/spark-wiki/target/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> UTF-8
+javac options:
+3 items
+0 -> -g
+1 -> -encoding
+2 -> UTF-8
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/LeagueInput$.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/LeagueInput.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/LeagueStanding$.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/LeagueStanding.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$run$1$$anonfun$apply$1.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$run$1.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$run$2$$anonfun$apply$2.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$run$2.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$typecreator13$1.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$typecreator5$1.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$typecreator9$1.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Seloger$.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Seloger.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask$$typecreator4$1.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask$.class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> /home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.class
+binary dependencies:
+19 items
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.7/jackson-annotations-2.6.7.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.6.7/jackson-core-2.6.7.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.7.1/jackson-databind-2.6.7.1.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.6.7/jackson-dataformat-yaml-2.6.7.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.7.1/jackson-module-scala_2.11-2.6.7.1.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/org/apache/spark/spark-catalyst_2.11/2.3.0/spark-catalyst_2.11-2.3.0.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/org/apache/spark/spark-sql_2.11/2.3.0/spark-sql_2.11-2.3.0.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/org/jsoup/jsoup/1.11.2/jsoup-1.11.2.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /home/soat/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> /home/soat/.m2/repository/org/apache/spark/spark-catalyst_2.11/2.3.0/spark-catalyst_2.11-2.3.0.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> /home/soat/.m2/repository/org/apache/spark/spark-sql_2.11/2.3.0/spark-sql_2.11-2.3.0.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> /home/soat/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> /home/soat/.m2/repository/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> /home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.LeagueInput
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.LeagueInput$
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.LeagueStanding
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.LeagueStanding$
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.Q1_WikiDocumentsToParquetTask
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.Q1_WikiDocumentsToParquetTask$
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.Q1_WikiDocumentsToParquetTask$$anonfun$run$1
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.Q1_WikiDocumentsToParquetTask$$anonfun$run$1$$anonfun$apply$1
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.Q1_WikiDocumentsToParquetTask$$anonfun$run$2
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.Q1_WikiDocumentsToParquetTask$$anonfun$run$2$$anonfun$apply$2
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.Q1_WikiDocumentsToParquetTask$$typecreator13$1
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.Q1_WikiDocumentsToParquetTask$$typecreator5$1
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.Q1_WikiDocumentsToParquetTask$$typecreator9$1
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.Seloger
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com.test.spark.wiki.extracts.Seloger$
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> com.test.spark.wiki.extracts.Q2_ShowLeagueStatsTask
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> com.test.spark.wiki.extracts.Q2_ShowLeagueStatsTask$
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> com.test.spark.wiki.extracts.Q2_ShowLeagueStatsTask$$typecreator4$1
+used names:
+365 items
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> $m
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> $m$untyped
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> $typecreator13
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> $typecreator5
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> $typecreator9
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> $u
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> &&
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> +
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> +=
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ->
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> <init>
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> <repeated>
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ==
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ?0
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> A
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> AbstractFunction1
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> AbstractFunction12
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> AbstractFunction2
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Any
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> AnyRef
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Array
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ArrayOps
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ArrowAssoc
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> B
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Boolean
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Builder
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> CanBuildFrom
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Class
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ClassLoader
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ClassSymbol
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ClassTag
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Coll
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Connection
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> DataFrameWriter
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Dataset
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> DatasetHolder
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> DateTime
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> DefaultScalaModule
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Document
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Element
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Elements
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Encoder
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> File
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> FileInputStream
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> FileReader
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Function1
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Inclusive
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> IndexOutOfBoundsException
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> IndexedSeq
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> InputStream
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Int
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Internal
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Iterator
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> JavaUniverse
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> JsonFactory
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> JsonProperty
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Jsoup
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> LeagueInput
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> LeagueStanding
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> List
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ListBuffer
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Logger
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> LoggerFactory
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> MatchError
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Mirror
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Module
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ModuleSymbol
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Nil
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> None
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Nothing
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Object
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ObjectMapper
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Predef
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Product
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Q1_WikiDocumentsToParquetTask
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> RDD
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Range
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ReificationSupportApi
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> RichInt
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Runnable
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> SaveMode
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ScalaRunTime
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Seloger
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Seq
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Serializable
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> SingleType
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Singleton
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Some
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> SparkConf
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> SparkContext
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> SparkSession
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Statics
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> String
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> StringOps
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Symbol
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T0
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T1
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T10
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T11
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T12
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T2
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T3
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T4
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T5
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T6
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T7
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T8
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> T9
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> That
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ThisType
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Throwable
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> TraversableOnce
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Tuple12
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Tuple2
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Type
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> TypeCreator
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> TypeRef
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> TypeSymbol
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> TypeTag
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> U
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> URL
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Unit
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> Universe
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> YAMLFactory
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> _$7
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> _1
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> _2
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> _hashCode
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> _toString
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> allLeague
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> annotation
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> anyHash
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> apache
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> apply
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> asInstanceOf
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> asModule
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> asType
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> augmentString
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> bucket
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> builder
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> c
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> canBuildFrom
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> coalesce
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> collection
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> com
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> conf
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> config
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> connect
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> databind
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> dataformat
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> doc
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> drawn
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> empty
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> eq
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> extracts
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> fasterxml
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> filename
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> finalizeHash
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> flatMap
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> foreach
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> format
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> fromDate
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> get
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> getClass
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> getClassLoader
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> getElementsByClass
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> getLeagues
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> getLogger
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> getOrCreate
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> getYear
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> goalsAgainst
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> goalsDifference
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> goalsFor
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> html
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> i
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> immutable
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> implicits
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> input
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> inputStream
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> intWrapper
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> internal
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> io
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> isInstanceOf
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> jackson
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> java
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> joda
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> jsoup
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> lang
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> league
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> leagueStanding
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> logger
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> lost
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> map
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> mapper
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> materializeClassTag
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> materializeTypeTag
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> minusYears
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> mix
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> mode
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> module
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> moduleClass
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> mutable
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> name
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ne
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> net
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> newProductEncoder
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> nodes
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> now
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> org
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> package
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> parallelize
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> parquet
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> parse
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> parseHtml
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> played
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> point
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> points
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> position
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> rank
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> rddToDatasetHolder
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> readValue
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> refArrayOps
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> reflect
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> registerModule
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> reificationSupport
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> row
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> rows
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> run
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> runtime
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> runtimeMirror
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> sc
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> scala
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> season
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> select
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> selectType
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> session
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> setAppName
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> setMaster
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> size
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> slf4j
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> spark
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> sparkContext
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> sql
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> staticClass
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> staticModule
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> staticPackage
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> table
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> team
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> test
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> text
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> time
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> to
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> toDS
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> toDate
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> toInt
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> toLowerCase
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> toSeq
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> toString
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> toTypeConstructor
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> typedProductIterator
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> universe
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> until
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> url
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> wiki
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> withYear
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> won
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> write
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> yaml
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> year
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> ||
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> $m
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> $m$untyped
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> $typecreator4
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> $u
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> &&
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> <init>
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> ==
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> A
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> AbstractFunction1
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Any
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> AnyRef
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Boolean
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Builder
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> ClassLoader
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> ClassSymbol
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> DataFrame
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> DataFrameReader
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Dataset
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Encoder
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> IndexOutOfBoundsException
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Int
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Iterator
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> JavaUniverse
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> LeagueStanding
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Mirror
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> None
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Nothing
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Object
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Predef
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Product
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Q2_ShowLeagueStatsTask
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Runnable
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> ScalaRunTime
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Serializable
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Singleton
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Some
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> SparkSession
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> String
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> T
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> T0
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Type
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> TypeCreator
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> TypeSymbol
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> TypeTag
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> U
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Unit
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> Universe
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> UserDefinedFunction
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> _hashCode
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> _toString
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> apache
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> apply
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> as
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> asInstanceOf
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> asType
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> bucket
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> builder
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> cache
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> com
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> createTempView
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> eq
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> expressions
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> extracts
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> functions
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> getClassLoader
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> getOrCreate
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> implicits
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> isInstanceOf
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> java
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> lang
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> materializeTypeTag
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> newProductEncoder
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> org
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> package
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> parquet
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> println
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> read
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> reflect
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> runtime
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> runtimeMirror
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> scala
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> session
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> show
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> spark
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> sql
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> standings
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> staticClass
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> test
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> toString
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> toTypeConstructor
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> typedProductIterator
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> universe
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> wiki
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> ||
+product stamps:
+18 items
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/LeagueInput$.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/LeagueInput.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/LeagueStanding$.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/LeagueStanding.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$run$1$$anonfun$apply$1.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$run$1.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$run$2$$anonfun$apply$2.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$anonfun$run$2.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$typecreator13$1.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$typecreator5$1.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$$typecreator9$1.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask$.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask$$typecreator4$1.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask$.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Seloger$.class -> lastModified(1551282228000)
+/home/soat/Bureau/spark-wiki/target/classes/com/test/spark/wiki/extracts/Seloger.class -> lastModified(1551282228000)
+source stamps:
+2 items
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> hash(fb10ba56e79650892fc2b4fb6337608db801fbdd)
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> hash(b5ba57388f19606a14e5b2a1c9dea63ca491a2e8)
+binary stamps:
+14 items
+/home/soat/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.7/jackson-annotations-2.6.7.jar -> lastModified(1550608268000)
+/home/soat/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.6.7/jackson-core-2.6.7.jar -> lastModified(1550608337000)
+/home/soat/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.7.1/jackson-databind-2.6.7.1.jar -> lastModified(1550608313000)
+/home/soat/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.6.7/jackson-dataformat-yaml-2.6.7.jar -> lastModified(1550608335000)
+/home/soat/.m2/repository/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.7.1/jackson-module-scala_2.11-2.6.7.1.jar -> lastModified(1550608311000)
+/home/soat/.m2/repository/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar -> lastModified(1550608336000)
+/home/soat/.m2/repository/org/apache/spark/spark-catalyst_2.11/2.3.0/spark-catalyst_2.11-2.3.0.jar -> lastModified(1550608335000)
+/home/soat/.m2/repository/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar -> lastModified(1550608276000)
+/home/soat/.m2/repository/org/apache/spark/spark-sql_2.11/2.3.0/spark-sql_2.11-2.3.0.jar -> lastModified(1550608333000)
+/home/soat/.m2/repository/org/jsoup/jsoup/1.11.2/jsoup-1.11.2.jar -> lastModified(1550608336000)
+/home/soat/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> lastModified(1550608257000)
+/home/soat/.m2/repository/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar -> lastModified(1550608347000)
+/home/soat/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar -> lastModified(1550608279000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1540916554000)
+class names:
+14 items
+/home/soat/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.7/jackson-annotations-2.6.7.jar -> com.fasterxml.jackson.annotation.JsonProperty
+/home/soat/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.6.7/jackson-core-2.6.7.jar -> com.fasterxml.jackson.core.JsonFactory
+/home/soat/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.7.1/jackson-databind-2.6.7.1.jar -> com.fasterxml.jackson.databind.ObjectMapper
+/home/soat/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.6.7/jackson-dataformat-yaml-2.6.7.jar -> com.fasterxml.jackson.dataformat.yaml.YAMLFactory
+/home/soat/.m2/repository/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.7.1/jackson-module-scala_2.11-2.6.7.1.jar -> com.fasterxml.jackson.module.scala.DefaultScalaModule$
+/home/soat/.m2/repository/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar -> org.joda.time.DateTime
+/home/soat/.m2/repository/org/apache/spark/spark-catalyst_2.11/2.3.0/spark-catalyst_2.11-2.3.0.jar -> org.apache.spark.sql.Encoder
+/home/soat/.m2/repository/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar -> org.apache.spark.rdd.RDD
+/home/soat/.m2/repository/org/apache/spark/spark-sql_2.11/2.3.0/spark-sql_2.11-2.3.0.jar -> org.apache.spark.sql.DataFrameReader
+/home/soat/.m2/repository/org/jsoup/jsoup/1.11.2/jsoup-1.11.2.jar -> org.jsoup.Jsoup
+/home/soat/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> scala.Serializable
+/home/soat/.m2/repository/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar -> scala.reflect.api.TypeCreator
+/home/soat/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar -> org.slf4j.LoggerFactory
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Runnable
+internal apis:
+2 items
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCeo++wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA8c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw+HOjWHQABm5vdGlmeXNxAH4ADJ3PUYd0AAhnb2Fsc0ZvcnNxAH4ADKhWC8t0AARuYW1lc3EAfgAMDej2A3QADkxlYWd1ZVN0YW5kaW5nc3EAfgAMuU6BpXQABHdhaXRzcQB+AAx43W+kdAAFZHJhd25zcQB+AAx2OGjAdAAOY29weSRkZWZhdWx0JDJzcQB+AAwCSECwdAANJGFzSW5zdGFuY2VPZnNxAH4ADMnlF210AA5jb3B5JGRlZmF1bHQkNXNxAH4ADKsZfrR0AAxwcm9kdWN0QXJpdHlzcQB+AAySur8odAADdXJsc3EAfgAM2Ury8HQABmVxdWFsc3NxAH4ADDFwZ2J0AA5jb3B5JGRlZmF1bHQkOXNxAH4ADKd+iw50AA9jb3B5JGRlZmF1bHQkMTJzcQB+AAwOBHGmdAAGbGVhZ3Vlc3EAfgAMERm8m3QADGFzSW5zdGFuY2VPZnNxAH4ADFtjG4d0AAZwbGF5ZWRzcQB+AAyehlvLdAADcnVuc3EAfgAMAsd1PHQAD2dvYWxzRGlmZmVyZW5jZXNxAH4ADNDwUgd0AAxzeW5jaHJvbml6ZWRzcQB+AAwfMB2idAANJGlzSW5zdGFuY2VPZnNxAH4ADMtm6d50AA5jb3B5JGRlZmF1bHQkOHNxAH4ADMQJv+x0AAhjYW5FcXVhbHNxAH4ADNeqy8l0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADLyFni90AARtYWluc3EAfgAMOv8IKXQABnNlYXNvbnNxAH4ADCqT8Ch0AA1wcm9kdWN0UHJlZml4c3EAfgAMdYxZl3QABGxvc3RzcQB+AAx9ZXvWdAAJbm90aWZ5QWxsc3EAfgAMaxDMvnQADGlzSW5zdGFuY2VPZnNxAH4ADMR2rOF0AAY8aW5pdD5zcQB+AAxe06F+dAAGcG9pbnRzc3EAfgAMkQWaz3QAAj09c3EAfgAMwu5CaHQABWNsb25lc3EAfgAMQAIa0HQADmNvcHkkZGVmYXVsdCQ3c3EAfgAMiO3c0nQAD2NvcHkkZGVmYXVsdCQxMHNxAH4ADIfcel50AAR0ZWFtc3EAfgAMuJA2THQABiRpbml0JHNxAH4ADDfq+WB0AAtMZWFndWVJbnB1dHNxAH4ADHvmENp0AAZidWNrZXRzcQB+AAyDEHaUdAAOY29weSRkZWZhdWx0JDNzcQB+AAx4AI9IdAAEY29weXNxAH4ADDLCxqZ0AAhwb3NpdGlvbnNxAH4ADPSV61x0AAh0b1N0cmluZ3NxAH4ADMATLY90AAIhPXNxAH4ADDgM4YN0AAhnZXRDbGFzc3NxAH4ADNcX+B10AA5jb3B5JGRlZmF1bHQkMXNxAH4ADKaeSEp0AB1RMV9XaWtpRG9jdW1lbnRzVG9QYXJxdWV0VGFza3NxAH4ADP2v3SR0AAdTZWxvZ2Vyc3EAfgAMkZBVOHQADmNvcHkkZGVmYXVsdCQ2c3EAfgAMrQ5S+3QAAm5lc3EAfgAMafGtzHQAD2NvcHkkZGVmYXVsdCQxMXNxAH4ADIILj5l0AAJlcXNxAH4ADLoeGBV0AAN3b25zcQB+AAwEbMiydAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMACl+gnQADGdvYWxzQWdhaW5zdHNxAH4ADPBtewd0AAIjI3NxAH4ADHMOoTV0AAhmaW5hbGl6ZXNxAH4ADEPt6M10AA5wcm9kdWN0RWxlbWVudHNxAH4ADCV1Msl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AI94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ADpjb20udGVzdC5zcGFyay53aWtpLmV4dHJhY3RzLlExX1dpa2lEb2N1bWVudHNUb1BhcnF1ZXRUYXNrdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Aj0wACWluaGVyaXRlZHEAfgCPTAAHcGFyZW50c3EAfgCPeHEAfgCsc3EAfgCndXEAfgCKAAAAAHNxAH4Ap3VxAH4AigAAAABzcQB+AKd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAB3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKt0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMVzcQB+ALhxAH4Au3NxAH4AvHNxAH4Av3VxAH4AwgAAAANzcQB+AMR0AARqYXZhc3EAfgDEdAACaW9xAH4AyXNxAH4AuHQAB1Byb2R1Y3RxAH4AvnNxAH4AuHQABkVxdWFsc3EAfgC+c3EAfgC4dAAIUnVubmFibGVzcQB+ALxzcQB+AL91cQB+AMIAAAADc3EAfgDEcQB+AM9zcQB+AMR0AARsYW5ncQB+AMlzcQB+ALh0AAZPYmplY3RxAH4A2HNxAH4AuHQAA0FueXEAfgC+c3EAfgCMcQB+AJl1cQB+AJoAAAAAc3EAfgCcAHQAJGNvbS50ZXN0LnNwYXJrLndpa2kuZXh0cmFjdHMuU2Vsb2dlcnVxAH4AnwAAAAB+cQB+AKF0AAZNb2R1bGV1cQB+AKUAAAAAc3EAfgCncQB+AK1zcQB+AKdzcQB+AK9zcQB+AKd1cQB+AIoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AJBxAH4AmXVxAH4AmgAAAABzcQB+AJwAcQB+AD91cQB+AJ8AAAAAc3EAfgC4dAAEVW5pdHNxAH4AvHNxAH4Av3VxAH4AwgAAAAJzcQB+AMRxAH4Ax3EAfgDJdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4A8HhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AonQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AuVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Aq3NxAH4AuHQABUFycmF5cQB+APh1cQB+ALYAAAABc3EAfgC4dAAGU3RyaW5nc3EAfgC8c3EAfgC/dXEAfgDCAAAAA3NxAH4AxHEAfgDPc3EAfgDEcQB+AN1xAH4AyXNxAH4Ap3VxAH4AigAAAABzcQB+AKd1cQB+ALYAAAACc3EAfgC4cQB+AN9xAH4BEnNxAH4AuHEAfgDhcQB+APhzcQB+AIxxAH4AmXVxAH4AmgAAAABzcQB+AJwAdAAoY29tLnRlc3Quc3Bhcmsud2lraS5leHRyYWN0cy5MZWFndWVJbnB1dHVxAH4AnwAAAABxAH4Ao3VxAH4ApQAAAABzcQB+AKdxAH4ArXNxAH4Ap3NxAH4Ar3NxAH4Ap3VxAH4AigAAAABzcQB+AKd1cQB+AIoAAAAAc3EAfgCndXEAfgC2AAAABnNxAH4AuHEAfgC7c3EAfgC8c3EAfgC/dXEAfgDCAAAAAnNxAH4AxHEAfgDHcQB+AMlzcQB+ALhxAH4Au3NxAH4AvHNxAH4Av3VxAH4AwgAAAANzcQB+AMRxAH4Az3NxAH4AxHQAAmlvcQB+AMlzcQB+ALhxAH4A03EAfgEtc3EAfgC4dAAGRXF1YWxzcQB+AS1zcQB+ALhxAH4A33NxAH4AvHNxAH4Av3VxAH4AwgAAAANzcQB+AMRxAH4Az3NxAH4AxHEAfgDdcQB+AMlzcQB+ALhxAH4A4XEAfgEtc3EAfgCMcQB+AJl1cQB+AJoAAAAAc3EAfgCcAHQAK2NvbS50ZXN0LnNwYXJrLndpa2kuZXh0cmFjdHMuTGVhZ3VlU3RhbmRpbmd1cQB+AJ8AAAAAcQB+AKN1cQB+AKUAAAAAc3EAfgCncQB+AK1zcQB+AKdzcQB+AK9zcQB+AKd1cQB+AIoAAAAAc3EAfgCndXEAfgCKAAAAAHNxAH4Ap3VxAH4AtgAAAAZzcQB+ALhxAH4Au3NxAH4AvHNxAH4Av3VxAH4AwgAAAAJzcQB+AMRxAH4Ax3EAfgDJc3EAfgC4cQB+ALtzcQB+ALxzcQB+AL91cQB+AMIAAAADc3EAfgDEcQB+AM9zcQB+AMR0AAJpb3EAfgDJc3EAfgC4cQB+ANNxAH4BUnNxAH4AuHQABkVxdWFsc3EAfgFSc3EAfgC4cQB+AN9zcQB+ALxzcQB+AL91cQB+AMIAAAADc3EAfgDEcQB+AM9zcQB+AMRxAH4A3XEAfgDJc3EAfgC4cQB+AOFxAH4BUnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAFc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAHGNvbS50ZXN0LnNwYXJrLndpa2kuZXh0cmFjdHNzcQB+AWl0AAhjb20udGVzdHNxAH4BaXQAE2NvbS50ZXN0LnNwYXJrLndpa2lzcQB+AWl0AA5jb20udGVzdC5zcGFya3NxAH4BaXQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaS+gMeJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAArL2hvbWUvc29hdC9CdXJlYXUvc3Bhcmstd2lraS90YXJnZXQvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPsQulbnllCJL8K0+2M3YI24Afvd
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwbwYOqQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwkinh6HQABm5vdGlmeXNxAH4ADE6xySZ0AAR3YWl0c3EAfgAMZkNnsHQADSRhc0luc3RhbmNlT2ZzcQB+AAxbu1JDdAAMcHJvZHVjdEFyaXR5c3EAfgAMkAgR53QABmVxdWFsc3NxAH4ADHTnMMN0AAxhc0luc3RhbmNlT2ZzcQB+AAx2+Ha2dAADcnVuc3EAfgAMrVgC43QADHN5bmNocm9uaXplZHNxAH4ADPZ0osd0AA0kaXNJbnN0YW5jZU9mc3EAfgAM6t7YwXQAFlEyX1Nob3dMZWFndWVTdGF0c1Rhc2tzcQB+AAzSR2FIdAAIY2FuRXF1YWxzcQB+AAzYjFGddAANcHJvZHVjdFByZWZpeHNxAH4ADFKLXFt0AAlub3RpZnlBbGxzcQB+AAxpkytzdAAMaXNJbnN0YW5jZU9mc3EAfgAM1o8223QABjxpbml0PnNxAH4ADNT0tqZ0AAI9PXNxAH4ADDt9NVd0AAVjbG9uZXNxAH4ADA6y74t0AAYkaW5pdCRzcQB+AAwHwi9EdAAGYnVja2V0c3EAfgAMfQskKnQABGNvcHlzcQB+AAwEr3C/dAAIdG9TdHJpbmdzcQB+AAyo0pEDdAACIT1zcQB+AAzfgfHJdAAIZ2V0Q2xhc3NzcQB+AAw5vAywdAAOY29weSRkZWZhdWx0JDFzcQB+AAx+faeydAACbmVzcQB+AAwwJiSRdAACZXFzcQB+AAzrq4gTdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMUezuh3QAAiMjc3EAfgAMecLesnQACGZpbmFsaXplc3EAfgAMUrDzinQADnByb2R1Y3RFbGVtZW50c3EAfgAMyvyWnHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAM2NvbS50ZXN0LnNwYXJrLndpa2kuZXh0cmFjdHMuUTJfU2hvd0xlYWd1ZVN0YXRzVGFza3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AcnNxAH4AbXVxAH4AUAAAAABzcQB+AG11cQB+AFAAAAAAc3EAfgBtdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAdzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBxdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCLc3EAfgB+cQB+AIFzcQB+AIJzcQB+AIV1cQB+AIgAAAADc3EAfgCKdAAEamF2YXNxAH4AinQAAmlvcQB+AI9zcQB+AH50AAdQcm9kdWN0cQB+AIRzcQB+AH50AAZFcXVhbHNxAH4AhHNxAH4AfnQACFJ1bm5hYmxlc3EAfgCCc3EAfgCFdXEAfgCIAAAAA3NxAH4AinEAfgCVc3EAfgCKdAAEbGFuZ3EAfgCPc3EAfgB+dAAGT2JqZWN0cQB+AJ5zcQB+AH50AANBbnlxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAFc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAHGNvbS50ZXN0LnNwYXJrLndpa2kuZXh0cmFjdHNzcQB+AKp0AAhjb20udGVzdHNxAH4AqnQAE2NvbS50ZXN0LnNwYXJrLndpa2lzcQB+AKp0AA5jb20udGVzdC5zcGFya3NxAH4AqnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaS+gMeJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAArL2hvbWUvc29hdC9CdXJlYXUvc3Bhcmstd2lraS90YXJnZXQvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLW6VziPGWBqFOWyocnepjykkaLo
+external apis:
+0 items
+source infos:
+2 items
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q1_WikiDocumentsToParquetTask.scala -> 
+AAAAAAAAAAA=
+/home/soat/Bureau/spark-wiki/src/main/scala/com/test/spark/wiki/extracts/Q2_ShowLeagueStatsTask.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaS+RjG51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKy9ob21lL3NvYXQvQnVyZWF1L3NwYXJrLXdpa2kvdGFyZ2V0L2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaS+Yg4R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKy9ob21lL3NvYXQvQnVyZWF1L3NwYXJrLXdpa2kvdGFyZ2V0L2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaS+gMeJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKy9ob21lL3NvYXQvQnVyZWF1L3NwYXJrLXdpa2kvdGFyZ2V0L2NsYXNzZXN0AAEv

@@ -1,0 +1,9 @@
+Mise enplace d’un moteur de recherche de profils à base de documents (CV, appel d’offre);
+Implémentation des jobs spark/python pour l’extraction du contenu des documents ;
+Nettoyage et normalisation des données extraites ;
+Implémentations des jobs spark pour l’alimentation d’un datalake avec les données
+extraites (elasticSearch + HDFS);
+Réalisation d’une api nodeJs pour la communication entre le back et le front ;
+Utilisation de spark Streaming pour prendre en compte les nouveaux docs
+Réalisation d’un cron pour l’automatisation du traitement des docs ;
+Outils : Spark, Python, elasticSearch, HDFS, NodeJs, Kanban, linux, bash
